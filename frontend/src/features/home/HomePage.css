@@ -1,0 +1,52 @@
+.justify-text {
+    text-align: justify;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.bold-text {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+.paper {
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #f9f9f9;
+    font-family: 'Roboto', sans-serif;
+}
+
+.paper-text {
+    font-size: 1rem;
+    line-height: 1.8;
+    margin-bottom: 15px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.icon {
+    color: #0500ff;
+    transition: color 0.3s ease;
+}
+
+.icon:hover {
+    color: #0077b5;
+}
+
+.paper .title-text {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+}
+
+.paper2 {
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #f9f9f9;
+}
