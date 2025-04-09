@@ -1,5 +1,5 @@
 # Media Masters Website
-
+![Website preview](./screens/main.png)
 ## 📖 Project Description
 This is the official website for **Media Masters**, a social media marketing agency `https://www.instagram.com/mediamasters_pl/`. The project aims to create a dynamic, responsive platform to showcase the agency's services, achievements, and expertise, with plans for future deployment.
 
