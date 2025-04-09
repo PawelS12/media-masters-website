@@ -20,3 +20,6 @@ This is the official website for **Media Masters**, a social media marketing age
 - **JWT** - Secure user authentication.
 - **argon2** - Password hashing algorithm for enhanced security.
 - **Postman** - Used for testing API endpoints.
+
+## License
+The project is licensed under the terms of the MIT License. See the `LICENSE` file for details.
